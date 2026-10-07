@@ -1,0 +1,8 @@
+timestamp,level,message
+2026-10-01 08:30:00,INFO,User login success
+2026-10-02 09:15:00,INFO,Data sync complete
+2026-10-01 10:20:00,ERROR,Database connection timeout
+2026-10-02 11:45:00,ERROR,API returned 500
+2026-10-03 14:00:00,INFO,User logout
+2026-10-03 15:30:00,ERROR,Redis connection refused
+2026-10-01 16:00:00,INFO,Health check passed
