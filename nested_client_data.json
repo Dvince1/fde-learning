@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "name": "Alice",
+    "address": {
+      "city": "Beijing",
+      "zipcode": "100001"
+    },
+    "contact": {
+      "email": "alice@example.com",
+      "phone": "13800000001"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Bob",
+    "address": {
+      "city": "Shanghai",
+      "zipcode": "200001"
+    },
+    "contact": {
+      "email": "bob@example.com",
+      "phone": "13800000002"
+    }
+  }
+]

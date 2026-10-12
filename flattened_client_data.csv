@@ -1,0 +1,3 @@
+id,name,city,zipcode,email,phone
+101,Alice,Beijing,100001,alice@example.com,13800000001
+102,Bob,Shanghai,200001,bob@example.com,13800000002
