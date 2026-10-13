@@ -1,0 +1,4 @@
+id,name,email,amount
+2,,bob@example.com,200
+3,Charlie,charlie_at_example.com,300
+4,David,david@example.com,-50
