@@ -1,0 +1,7 @@
+id,name,city,total_spend,tag
+101,Alice,Beijing,1500,VIP*
+102,Bob,Shanghai,800,Potential*
+103,Charlie,Shenzhen,300,Normal
+104,David,Beijing,600,Potential*
+105,Eve,Hangzhou,2000,VIP
+106,Frank,Chengdu,100,Normal
